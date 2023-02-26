@@ -1,0 +1,35 @@
+#Baza
+i3
+polybar
+dunst
+libreoffice
+rofi
+zsh
+
+
+#languages of programm operations on computer
+python3
+python3-pip
+
+
+# tools
+tree
+git
+curl
+wget
+cmus
+htop
+cmatrix
+neofetch
+flameshot
+make
+gnupg
+
+# package managers
+flatpak
+snapd
+snap
+
+#ly
+libx11-dev
+libpam0g-dev
