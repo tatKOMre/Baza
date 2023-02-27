@@ -12,6 +12,7 @@ python3
 python3-pip
 
 # docker
+docker
 docker.io
 docker-compose
 
