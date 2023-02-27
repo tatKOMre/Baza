@@ -11,6 +11,9 @@ zsh
 python3
 python3-pip
 
+# docker
+docker.io
+docker-compose
 
 # tools
 tree
