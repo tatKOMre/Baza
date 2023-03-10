@@ -154,7 +154,7 @@ bindsym $mod+n floating enable; resize set 930px 1020px; move position 20px 40px
 bindsym $mod+c floating enable; resize set 930px 540px; move position 970px 520px
 
 # wallpapers (with feh)
-exec_always "feh --bg-fill /home/tatkom/Документы/wallpapers/Debianbunt"
+exec_always "feh --bg-fill /home/tatkom/Изображения/wallpapers"
 
 # static color
 # exec "xsetroot -solid '#637a9e'"
