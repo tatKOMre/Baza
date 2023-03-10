@@ -67,3 +67,6 @@ snap
 #ly
 libx11-dev
 libpam0g-dev
+
+#2048
+2048
